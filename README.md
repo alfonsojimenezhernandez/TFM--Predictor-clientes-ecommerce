@@ -24,3 +24,6 @@ En formato HTML podemos encontrar los informes generados sobre los diferntes dat
 * **Modelo_4- XGBoost.ipynb**  --> Notebook similar a la propuesta del Notebook *Modelo_1.ipynb*, cambiando el algoritmo implementado, en lugar de RF un clasificador de XGBoost.
 * **Modelo_5- PF - XGBoost.ipynb**  --> Notebook similar a la propuesta del Notebook *Modelo_2- PF.ipynb*, cambiando el algoritmo implementado, en lugar de RF un clasificador de XGBoost.
 * **Modelo_5- PJ - XGBoost.ipynb**  --> Notebook similar a la propuesta del Notebook *Modelo_2- PJ.ipynb*, cambiando el algoritmo implementado, en lugar de RF un clasificador de XGBoost.
+
+## Notebooks de Resultados:
+* **Modelo_1.ipynb**  --> Notebook con una propuesta inicial, que consta en la aplicación de un modelo de ML, en este caso el elegido fue Random Forest (RF), sobre el que se aplican diferentes técnicas para salvar el problema presente en el dataset, del desbalanceo.
