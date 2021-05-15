@@ -22,5 +22,5 @@ En formato HTML podemos encontrar los informes generados sobre los diferntes dat
 * **Modelo_2- PJ.ipynb**  --> Notebook basado en la misma estructura que el notebook *Modelo_1.ipynb*, con la difernecia que el dataset está acotado a los usuarios del tipo Personas Jurídicas.
 * **Modelo_3- ALTAS.ipynb**  --> Notebook basado en la misma estructura que el notebook *Modelo_1.ipynb*, con la difernecia que el dataset no busca los potenciales clientes, sino los potenciales usuarios que se darán de alta.
 * **Modelo_4- XGBoost.ipynb**  --> Notebook similar a la propuesta del Notebook *Modelo_1.ipynb*, cambiando el algoritmo implementado, en lugar de RF un clasificador de XGBoost.
-* **Modelo_5- XGBoost.ipynb**  --> Notebook similar a la propuesta del Notebook *Modelo_1.ipynb*, cambiando el algoritmo implementado, en lugar de RF un clasificador de XGBoost.
-* **Modelo_5- XGBoost.ipynb**  --> Notebook similar a la propuesta del Notebook *Modelo_1.ipynb*, cambiando el algoritmo implementado, en lugar de RF un clasificador de XGBoost.
+* **Modelo_5- PF - XGBoost.ipynb**  --> Notebook similar a la propuesta del Notebook *Modelo_2- PF.ipynb*, cambiando el algoritmo implementado, en lugar de RF un clasificador de XGBoost.
+* **Modelo_5- PJ - XGBoost.ipynb**  --> Notebook similar a la propuesta del Notebook *Modelo_2- PJ.ipynb*, cambiando el algoritmo implementado, en lugar de RF un clasificador de XGBoost.
